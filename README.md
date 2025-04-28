@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- ⚡ Fun fact **I love coffee**
+- ⚡ Fun fact **I love coffee and the cats**
 
 <p align="left">
 </p>
