@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimas Benitez</h1>
-<h3 align="center">I love technology, and I would like to be an mobile developer in the future.</h3>
+<h3 align="center">I love technology, and I would like to be a mobile developer in the future.</h3>
 
 - 🌱 I’m currently learning **Web development**
 
